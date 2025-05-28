@@ -1,0 +1,21 @@
+name: dev_vnf
+channels:
+  - conda-forge
+dependencies:
+  - aiohttp
+  - bs4
+  - ca-certificates
+  - certifi
+  - ipympl
+  - jupyter
+  - matplotlib
+  - openpyxl
+  - openssl
+  - pandas
+  - python=3.12
+  - requests
+  - xarray
+  - pip:
+    - libhydro==0.9.5
+    - pyogrio==0.10.0
+    - pyproj==3.7.0
