@@ -16,6 +16,6 @@ dependencies:
   - requests
   - xarray
   - pip:
-    - libhydro==0.9.5
+    - https://gitlab.com/dev_vnf/libhydro-vnf.git
     - pyogrio==0.10.0
     - pyproj==3.7.0

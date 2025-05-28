@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+donnees/chroniques/chronique_rubriques_volume_utile_m3.csv
+donnees/chroniques/chronique_rubriques_volume_utile_Mm3.csv
