@@ -1,0 +1,6 @@
+set -e
+pip install -e scripts/libhydro-0.9.5-py3-none-any.whl
+
+# commme demandé dans la doc : https://mybinder.readthedocs.io/en/latest/using/config_files.html#postbuild-run-code-after-installing-the-environment
+# ajout de la commande suivante :
+exec "$@"
