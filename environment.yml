@@ -15,6 +15,3 @@ dependencies:
   - python=3.12
   - requests
   - xarray
-  - pip:
-    - pyogrio==0.10.0
-    - pyproj==3.7.0

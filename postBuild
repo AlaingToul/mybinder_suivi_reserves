@@ -1,0 +1,2 @@
+set -e
+pip install -e scripts/libhydro-0.9.5-py3-none-any.whl
