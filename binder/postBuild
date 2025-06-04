@@ -4,5 +4,4 @@ set -e
 # libhydro local
 pip install scripts/libhydro-0.9.5-py3-none-any.whl
 # pour passer en français si possible 
-apt install language-pack-fr
-update-locale LANG="fr_fr"
+sudo update-locale LANG="fr_fr"
