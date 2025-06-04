@@ -1,4 +1,7 @@
 #!/bin/bash
 
 set -e
+# libhydro local
 pip install scripts/libhydro-0.9.5-py3-none-any.whl
+# pour passer en français si possible 
+export LC_ALL="fr_FR.utf8"
