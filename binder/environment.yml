@@ -4,14 +4,13 @@ channels:
 dependencies:
   - aiohttp
   - bs4
-  - ca-certificates
-  - certifi
   - ipympl
-  - jupyter
+  - ipywidgets
   - matplotlib
   - openpyxl
   - openssl
   - pandas
   - python=3.12
   - requests
+  - seaborn
   - xarray
